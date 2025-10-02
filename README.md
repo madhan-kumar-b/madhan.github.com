@@ -2,6 +2,8 @@
 
 A modern, single-page portfolio website built with React, TypeScript, and Vite.
 
+> **⚠️ Important**: This repository currently contains only configuration files. You need to add your source code (client/, server/, shared/ directories) before deployment will work. See [IMPORTANT.md](IMPORTANT.md) for details.
+
 ## 🚀 Deployment
 
 This site is automatically deployed to GitHub Pages when changes are pushed to the `main` branch.
